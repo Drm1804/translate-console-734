@@ -1,1 +1,8 @@
-{ }
+{
+  "DM_MAIN_MENU_ITEM" : "RDM ",
+  "DM_MAIN_STATE_CONNECT" : "Communication status",
+  "DM_MAIN_STATE_EQUIPMENT" : "Integral criterion",
+  "DM_MAIN_STATE_COMPLEX_STATE" : "State",
+  "DM_MAIN_STATE_COMPLEX_RATING" : "Evaluation of a device",
+  "DM_MAIN_STATE_MODE" : "Mode"
+}
