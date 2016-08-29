@@ -5,6 +5,7 @@
   "DM_MAIN_STATE_COMPLEX_STATE":"Состояние",
   "DM_MAIN_STATE_COMPLEX_RATING":"Оценка устройства",
   "DM_MAIN_STATE_MODE":"Режим",
+  "DM_MAIN_STATE_CONNECT_DM":"Связь",
 
 
 
@@ -38,7 +39,9 @@
   "DM_BTN_ON2":"Вкл. 2",
   "DM_BTN_OFF":"Откл.",
 
-
+  "DM_CONNECT_DM_BEACON_ONLINE":"Норма",
+  "DM_CONNECT_DM_BEACON_OFFLINE":"Нет связи",
+  "DM_CONNECT_DM_BEACON_DEGRADATION":"Ухудшение",
 
 
   "DM_LIGHT_BARRIER_HEAD":"З.О.",
