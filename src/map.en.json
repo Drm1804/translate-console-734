@@ -1,0 +1,8 @@
+{
+  "MAP_MAIN_MENU_ITEM" : "Devices",
+  "MAP_FILTER_MENU_ALL" : "All",
+  "MAP_FILTER_MENU_BEACON" : "Beacons",
+  "MAP_FILTER_TABLE_HEAD_ADDRESS" : "Address",
+  "MAP_FILTER_TABLE_HEAD_SERIAL" : "Serial number",
+  "MAP_HEADER_TABLE_ALL_DEVICE" : "All devices"
+}
