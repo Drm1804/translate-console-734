@@ -42,10 +42,6 @@
   "SETTINGS_USERS_CLAIMS" : "Список разрешений",
   "SETTINGS_USERS_CONFIRM_DELETE_NAME" : "Имя",
   "SETTINGS_USERS_CONFIRM_DELETE_LOGIN" : "Login",
-
-
-
-
   "SETTINGS_USERS_ADD_GROUP" : "Добавить группу",
   "SETTINGS_USERS_EDIT_GROUP" : "Редактировать группу",
   "SETTINGS_USERS_MOVE_MESSAGE" : "Перемещение пользователя станет доступно после того, как пользователь будет создан.",
@@ -54,7 +50,4 @@
   "SETTINGS_USERS_CREATE" : "Создано",
   "SETTINGS_USERS_PARENT_GROUP" : "Родительская группа",
   "SETTINGS_USERS_LAST_ENTER" : "Последний вход"
-
-
-
 }

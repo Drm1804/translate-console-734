@@ -1,6 +1,7 @@
 {
   "DM_MAIN_MENU_ITEM" : "RDM",
   "DM_MAIN_STATE_CONNECT" : "Connection status",
+  "DM_MAIN_STATE_EQUIPMENT" : "Integral assessment",
   "DM_MAIN_STATE_COMPLEX_STATE" : "Condition",
   "DM_RATING_TAG_OFF" : "Off",
   "DM_RATING_TAG_ON" : "On",
