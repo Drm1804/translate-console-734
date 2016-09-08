@@ -1,0 +1,11 @@
+{
+  "MAP_MAIN_MENU_ITEM":"Устройства",
+  "MAP_FILTER_MENU_ALL":"Все",
+  "MAP_FILTER_MENU_BEACON":"Маяки",
+  "MAP_FILTER_TABLE_HEAD_NAME":"Название",
+  "MAP_FILTER_TABLE_HEAD_ADDRESS":"Адрес",
+  "MAP_FILTER_TABLE_HEAD_SERIAL":"Серийный номер",
+  "MAP_HEADER_TABLE_ALL_DEVICE":"Все устройства",
+  "MAP_FILTER_MENU_BEGIN_SEARCH":"Выполняю",
+  "MAP_FILTER_MENU_SEARCH_DEVICE":"Поиск устройств"
+}

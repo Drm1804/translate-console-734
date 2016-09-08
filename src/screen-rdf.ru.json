@@ -1,0 +1,10 @@
+{
+  "SCREEN_RDF_NORMA":"Норма",
+  "SCREEN_RDF_DU":"ДУ",
+  "SCREEN_RDF_STATE":"Состояние",
+  "SCREEN_RDF_CONNECT":"Подключение",
+  "SCREEN_RDF_OPERATING_MODE":"Режим работы",
+  "SCREEN_RDF_SELECTED_CHANNELS":"Выбранные каналы",
+  "SCREEN_RDF_CHANNEL":"Канал",
+  "SCREEN_RDF_TRACE":"След"
+}
