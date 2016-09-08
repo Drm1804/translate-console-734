@@ -1,8 +1,0 @@
-{
-  "INDEX_DIALOG_CONFIRM" : "Ок",
-  "LOGIN_HEAD" : "Вход",
-  "LOGIN_FORM_LOGIN" : "Логин",
-  "LOGIN_FORM_PASSWORD" : "Пароль",
-  "LOGIN_BOTTOM_LOGIN" : "Войти",
-  "ERROR_SERVER_IS_NOT_AVAILABLE" : "Сервер недоступен"
-}
