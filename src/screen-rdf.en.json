@@ -1,0 +1,8 @@
+{
+  "SCREEN_RDF_NORMA" : "Norm",
+  "SCREEN_RDF_DU" : "Remote control",
+  "SCREEN_RDF_STATE" : "Condition",
+  "SCREEN_RDF_CONNECT" : "Connection",
+  "SCREEN_RDF_CHANNEL" : "Channel",
+  "SCREEN_RDF_TRACE" : "Next"
+}
