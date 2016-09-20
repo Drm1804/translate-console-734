@@ -50,5 +50,19 @@
   "DM_KIT_ASSESSMENT" : "Оценка",
   "DM_KIT_STATE" : "Состояние",
   "DM_MAIN" : "Основные",
-  "DM_MAIN_STATE_EQUIPMENT_QWERTY" : "Состояние обр-я"
+
+
+  "DM_STATE_EQUIPMENT_ROOM" : "Состояние аппаратной",
+  "DM_TEMPERATURE" : "Температура",
+  "DM_FIRE_DETECTOR" : "Датчик огня",
+  "DM_MOTION_SENSOR" : "Датчик движения",
+  "DM_MAIN_NETWORK" : "Основная сеть",
+  "DM_ADDITIONAL_NETWORK" : "Основная сеть",
+  "DM_TELEMETRY" : "Основная сеть",
+
+
+
+
+  "DM_MAIN_STATE_EQUIPMENT_QWERTY" : "Состояние обр-я",
+  "DM_LOCK_EDIT_MES" : "Управление заблокировано по причине отсутсвия прав"
 }
